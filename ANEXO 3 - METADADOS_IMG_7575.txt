@@ -1,0 +1,143 @@
+ExifTool Version Number         : 12.76
+File Name                       : IMG_7575.jpg
+Directory                       : .
+File Size                       : 2.1 MB
+File Modification Date/Time     : 2024:12:09 18:04:30-03:00
+File Access Date/Time           : 2024:12:11 11:04:17-03:00
+File Inode Change Date/Time     : 2024:12:11 11:04:17-03:00
+File Permissions                : -rw-rw-rw-
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Apple
+Camera Model Name               : iPhone 11 Pro
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 18.0
+Modify Date                     : 2023:12:14 15:10:09
+Host Computer                   : iPhone 11 Pro
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/190
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 32
+Exif Version                    : 0232
+Date/Time Original              : 2023:12:14 15:10:09
+Create Date                     : 2023:12:14 15:10:09
+Offset Time                     : -03:00
+Offset Time Original            : -03:00
+Offset Time Digitized           : -03:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/190
+Aperture Value                  : 1.8
+Brightness Value                : 6.218367099
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 4.2 mm
+Subject Area                    : 1998 1499 2198 1381
+Maker Note Version              : 15
+Run Time Flags                  : Valid
+Run Time Value                  : 88274428898291
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : Yes
+AE Target                       : 166
+AE Average                      : 167
+AF Stable                       : Yes
+Acceleration Vector             : -0.8728258603 -0.00509880995 -0.06644419579
+Focus Distance Range            : 0.32 - 0.66 m
+Content Identifier              : 5936CC1E-CD40-4984-9D1A-EC00130227B2
+Image Capture Type              : Photo
+Live Photo Video Index          : 575676416
+HDR Headroom                    : 1.205359697
+Signal To Noise Ratio           : 47.66930007
+Photo Identifier                : BCE927AB-40F3-4F46-9387-0B861271F981
+Focus Position                  : 77
+Sub Sec Time Original           : 006
+Sub Sec Time Digitized          : 006
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 4032
+Exif Image Height               : 3024
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 1.539999962-6mm f/1.8-2.4
+Lens Make                       : Apple
+Lens Model                      : iPhone 11 Pro back triple camera 4.25mm f/1.8
+Composite Image                 : General Composite Image
+GPS Latitude Ref                : South
+GPS Longitude Ref               : West
+GPS Altitude Ref                : Above Sea Level
+GPS Time Stamp                  : 18:10:07
+GPS Speed Ref                   : km/h
+GPS Speed                       : 21.61133015
+GPS Img Direction Ref           : Magnetic North
+GPS Img Direction               : 141.348545
+GPS Dest Bearing Ref            : Magnetic North
+GPS Dest Bearing                : 141.348545
+GPS Date Stamp                  : 2023:12:14
+GPS Horizontal Positioning Error: 3.963016729 m
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 2930
+Thumbnail Length                : 7814
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ecfda38e388547c36db4bd4f7ada182f
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.96419 1 0.82489
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Image Width                     : 4032
+Image Height                    : 3024
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Run Time Since Power Up         : 24:31:14
+Aperture                        : 1.8
+Image Size                      : 4032x3024
+Megapixels                      : 12.2
+Scale Factor To 35 mm Equivalent: 6.1
+Shutter Speed                   : 1/190
+Create Date                     : 2023:12:14 15:10:09.006-03:00
+Date/Time Original              : 2023:12:14 15:10:09.006-03:00
+Modify Date                     : 2023:12:14 15:10:09-03:00
+Thumbnail Image                 : (Binary data 7814 bytes, use -b option to extract)
+GPS Altitude                    : 439.9 m Above Sea Level
+GPS Date/Time                   : 2023:12:14 18:10:07Z
+GPS Latitude                    : 14 deg 19' 30.98" S
+GPS Longitude                   : 43 deg 46' 9.04" W
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 69.4 deg
+Focal Length                    : 4.2 mm (35 mm equivalent: 26.0 mm)
+GPS Position                    : 14 deg 19' 30.98" S, 43 deg 46' 9.04" W
+Hyperfocal Distance             : 2.04 m
+Light Value                     : 10.9
+Lens ID                         : iPhone 11 Pro back triple camera 4.25mm f/1.8
